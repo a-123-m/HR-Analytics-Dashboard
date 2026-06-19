@@ -4,9 +4,13 @@ This project is an interactive HR dashboard built to stop an expensive problem: 
 # 📸 Dashboard Preview
 
 <h3>Home Page</h3>
+<img src="DPicture1.png">
 <h3>Employee Attrition</h3>
+<img src="DPicture2.png">
 <h3>Employee Demographics</h3>
+<img src="DPicture3.png">
 <h3>Employee Retention</h3>
+<img src="DPicture4.png">
 
 # 📌 Project Overview
 This project presents an interactive HR Analytics Dashboard built in Microsoft Excel to analyze employee demographics, attrition trends, and workforce retention patterns. The dashboard transforms raw HR data into meaningful insights that help organizations understand employee behavior and make informed workforce decisions.
@@ -184,5 +188,10 @@ Examines factors influencing employee retention by:
 <h4>4. Overtime impact on Work-life balance</h4>
 <p>🤔Problem: Among employees affected by overtime work, 30.86% rate their work-life balance as Poor which is substantially higher than any other work-life balance category. </p>
 <p>💡Solution: Implement measures to reduce excessive overtime and support employee well-being to improve work-life balance and retention.  </p>
+<br>
+<p>✨Connect with me: <a href="https://www.linkedin.com/in/aiswarya-mohan-950948221/"> Linkedin </a></p>
+
+
+
 
 
