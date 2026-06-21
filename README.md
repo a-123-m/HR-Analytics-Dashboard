@@ -4,13 +4,13 @@ This project is an interactive HR dashboard built to stop an expensive problem: 
 # 📸 Dashboard Preview
 
 <h3>Home Page</h3>
-<img src="DPicture1.png">
+<img src="Picture1.png">
 <h3>Employee Attrition</h3>
-<img src="DPicture2.png">
+<img src="Picture2.png">
 <h3>Employee Demographics</h3>
-<img src="DPicture3.png">
+<img src="Picture3.png">
 <h3>Employee Retention</h3>
-<img src="DPicture4.png">
+<img src="Picture4.png">
 
 # 📌 Project Overview
 This project presents an interactive HR Analytics Dashboard built in Microsoft Excel to analyze employee demographics, attrition trends, and workforce retention patterns. The dashboard transforms raw HR data into meaningful insights that help organizations understand employee behavior and make informed workforce decisions.
@@ -150,9 +150,9 @@ Examines factors influencing employee retention by:
 <h4>2. Employee Attrition by Job Role</h4>
 <p>🤔Problem:The highest number of employees leaving the organization are from the Laboratory Technician (62 employees) and Sales Executive (58 employees) roles. Additionally, Sales Representatives show a high attrition rate, with 33 out of 84 employees leaving the organization. </p>
 <p>💡Solution: Identify key causes of turover for these job roles and implement strategies that focus on improving retention through employee engangement and development programs.</p>
-<h4>3. Employee Attrition by Department and Job level</h4>
-<p>🤔Problem:Entry level employees belonging to Sales department faces the highest attrition rate (41.56%) followed by Entry level HR (30.30%) and Entry level R&D(23.22%). Heavy losses are observed for both entry level and mid level positions for HR department. Across all the 3 departments (HR,R&D,Sales), entry level positions are experiencing the highest turnover rates.</p>
-<p>💡Solution: The organization should focus on improving retention among entry-level employees through better onboarding, training and career growth opportunities particularly for entry-level employees in the Sales and HR departments and identify key factors driving employee exits.</p>
+<h4>3. Employee Attrition by Department</h4>
+<p>🤔Problem: Research & Development records the highest number of exits (133) but maintains the lowest attrition rate (13.8%) due to its larger workforce.</p>
+<p>💡Solution: Continue tracking turnover trends in the R&D department and implement proactive retention strategies to maintain workforce stability.</p>
 <h4>4. Employee Attrition by Gender</h4>
 <p>🤔Problem:Male employees  account for a higher share of attrition (60%) compared to female employees</p>
 <p>💡Solution: Identify factors behind higher attrition among male employees and implement targeted retention strategies based on the findings.  </p>
